@@ -14,4 +14,4 @@ int main(){
     cout << "You need " << (1/result) << " boxes to yield one metric ton of cereal.";
     cout << endl;
     return 0;
-}
+} 
